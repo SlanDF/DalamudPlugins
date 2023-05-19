@@ -14,7 +14,7 @@
   "IsTestingExclusive": false,
   "LastUpdate": "1653015600",
   "DownloadCount": 5,
-  "DownloadLinkInstall": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/releases/download/Release/latest.zip",
-  "DownloadLinkTesting": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/releases/download/Release/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/releases/download/Release/latest.zip"
+  "DownloadLinkInstall": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/archive/refs/tags/Release.zip",
+  "DownloadLinkTesting": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/archive/refs/tags/Release.zip",
+  "DownloadLinkUpdate": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/archive/refs/tags/Release.zip"
   }]
