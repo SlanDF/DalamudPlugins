@@ -1,0 +1,20 @@
+[{
+  "Author": "SlanDF",
+  "Name": "Sleep & Sit anywhere",
+  "InternalName": "RoleplayersToolbox",
+  "Punchline": "Sleep & Sit anywhere you want",
+  "Description": "I ripped the RP toolbox code to sit and sleep and turned them into commands lmao",
+  "AssemblyVersion": "0.3.5",
+  "RepoUrl": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition",
+  "IconUrl": "https://raw.githubusercontent.com/SlanDF/RolePlayersToolbox-FP-Edition/main/icon.png",
+  "ApplicableVersion": "any",
+  "Tags": [ "roleplayers", "toolbox", "emote", "glitch"],
+  "DalamudApiLevel": 6,
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "LastUpdate": "1653015600",
+  "DownloadCount": 5,
+  "DownloadLinkInstall": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/releases/download/Release/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/releases/download/Release/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/SlanDF/RolePlayersToolbox-FP-Edition/releases/download/Release/latest.zip"
+  }]
